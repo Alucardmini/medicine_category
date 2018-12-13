@@ -1,13 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
 
-"""
-@author: wuxikun
-@contact: wuxikun@bjgoodwill.com
-@software: PyCharm Community Edition
-@file: Main.py
-@time: 12/12/18 6:28 PM
-"""
 
 from keras.layers import LSTM, Dense, Dropout, Activation, Embedding
 from keras.models import Sequential
